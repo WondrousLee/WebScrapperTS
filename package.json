@@ -1,0 +1,9 @@
+{
+  "name": "WebScrapperTS",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "main.ts",
+  "repository": "https://github.com/WondrousLee/WebScrapperTS.git",
+  "author": "Marcu <bekinekt@gmail.com>",
+  "license": "MIT"
+}
